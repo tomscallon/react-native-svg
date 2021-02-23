@@ -1,6 +1,6 @@
 {
   "version": "13.0.0",
-  "name": "react-native-svg",
+  "name": "@tomscallon/react-native-svg",
   "description": "SVG library for react-native",
   "homepage": "https://github.com/react-native-community/react-native-svg",
   "repository": {
